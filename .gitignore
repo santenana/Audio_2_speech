@@ -8,3 +8,8 @@ Train_Audio_Real_Texto_ES.ipynb
 /modelo_minimo
 /models_text_sentiment
 Analisis_Sentimientos.ipynb
+/Kaggle
+sentiment_analysis_training.py
+logs_*/
+results_*/
+__pycache__
